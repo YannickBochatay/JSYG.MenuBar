@@ -4,12 +4,14 @@
     "description" : "menu bar plugin for jsyg framework or standalone with jQuery",
     "main": ["JSYG.MenuBar.js","JSYG.MenuBar.css"],
     "moduleType": [
+        "node",
         "amd",
         "globals"
     ],
    "dependencies": {
-        "jsyg-menu":"latest",
-        "jsyg-stdconstruct":"latest"
+      "jquery":"latest",
+      "jsyg-menu":"latest",
+      "jsyg-stdconstruct":"latest"
     },
     "devDependencies": {
         "jsyg": "latest",

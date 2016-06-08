@@ -1,0 +1,33 @@
+{
+  "name": "jsyg-menubar",
+  "version": "0.0.2",
+  "description": "Menu bar plugin for JSYG framework or jQuery",
+  "main": "JSYG.Menubar.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/YannickBochatay/JSYG.Menubar.git"
+  },
+  "keywords": [
+    "svg",
+    "jsyg",
+    "jquery",
+    "javascript",
+    "library"
+  ],
+  "author": "Yannick Bochatay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YannickBochatay/JSYG.Menubar/issues"
+  },
+  "homepage": "https://github.com/YannickBochatay/JSYG.Menubar#readme",
+  "devDependencies": {
+    "jsyg": "",
+    "bootstrap":"",
+    "font-awesome":""
+  },
+  "dependencies": {
+    "jquery":"",
+    "jsyg-menu":"",
+    "jsyg-stdconstruct":""
+  }
+}

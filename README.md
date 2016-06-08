@@ -7,8 +7,9 @@ Fits well with Bootstrap.
 
 ##### Installation
 ```shell
-bower install jsyg-menubar
+npm install jsyg-menubar
 ```
+You can also install it from bower.
 
 ##### Example
 ```javascript
