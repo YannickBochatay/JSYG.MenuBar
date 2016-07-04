@@ -1,8 +1,8 @@
 {
   "name": "jsyg-menubar",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Menu bar plugin for JSYG framework or jQuery",
-  "main": "JSYG.Menubar.js",
+  "main": "JSYG.MenuBar.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/YannickBochatay/JSYG.Menubar.git"
